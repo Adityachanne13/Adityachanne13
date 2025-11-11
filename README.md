@@ -17,16 +17,16 @@ Currently, I’m seeking a **full-time developer role** where I can apply my tec
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:adityachanne786@gmail.com">
+  <a href="adityachanne786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://www.linkedin.com/in/adityachanne13">
+  <a href="https://www.linkedin.com/in/aditya-c-8376862aa">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
   <a href="https://github.com/Adityachanne13">
     <img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/aditya_channe13/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
 </p>
@@ -137,7 +137,7 @@ SSC — *67.80%* (2019)
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
 </p>
